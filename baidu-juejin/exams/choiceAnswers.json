@@ -1,0 +1,219 @@
+[
+    {
+        "hash": "e75edfb06e7cf4aa95aee519dca46650",
+        "question": "{\"info\":{\"title\":\"当招牌为认不出的艺术字或者logo时，选择反馈下的“招牌不符合可提取规则”选项。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 2
+    },
+    {
+        "hash": "0683c2d38e1b83e8e98266da8379d83a",
+        "question": "{\"info\":{\"title\":\"（判断题）当招牌中分店名为数字时不用提取，为字母时需要提取\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 2
+    },
+    {
+        "hash": "e38fe4060d12ab2b84a0e3dc36ddc127",
+        "question": "{\"info\":{\"title\":\"当商场店铺招牌上同时存在名称和广告语时，只提取门店的品牌名字，不需要提取广告语部分。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "93c22af1dc42111fe30dd00733765e54",
+        "question": "{\"info\":{\"title\":\"如果遇到图片招牌上艺术字品牌在本提取规则的品牌映射表中有对应的品牌名称时，则优先按照映射表中的品牌名称进行输入。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "645d7eab8cf4d091204fcd3c7b057ae1",
+        "question": "{\"info\":{\"title\":\"当遇到图片拍摄招牌文字清晰但背景环境较暗的情况时，如果判断文字内容确是招牌名称可以正常提取，如果判断文字内容为广告标语则选择“招牌不符合可提取规则”。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "13b97e6e2ebd7a4865daadd08ea69083",
+        "question": "{\"info\":{\"title\":\"在商场中，收银台、洗手间方向指示牌、广告牌、电梯等需要提取吗？\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"需要提取\"},{\"B\":\"不应提取\"}]]",
+        "areaCoordinateHash": "2179b25358d44192dd919f1114386c9b",
+        "ans0": 2
+    },
+    {
+        "hash": "f689b57e68db61a3d98e1c65e4e91dae",
+        "question": "{\"info\":{\"title\":\"如果遇到图片中的商场店铺在建设中或招牌含有 “xxx即将开业”、“xxx即将入驻”或其他类似含义的字，选择“招牌不符合可提取规则”选项。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "8c3ceb9d84b8f11bce140173a98f3ff6",
+        "question": "{\"info\":{\"title\":\"（判断题）招牌中只要含有箭头标识，该招牌一定不该提取\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 2
+    },
+    {
+        "hash": "72a8e9521bf4a96e87c3299ab09629c7",
+        "question": "{\"info\":{\"title\":\"下列关于模糊类招牌提取规则描述错误的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"若招牌中文字稍有模糊，但可通过轮廓判断，需要提取\"},{\"B\":\"若通名清晰，但是专名模糊/遮挡，可只提取通名\"},{\"C\":\"若专名清晰，但是分店名或者范围名模糊/遮挡看不清，可只提取专名\"}]]",
+        "areaCoordinateHash": "1b0cb1f71eaaedfbbe6cb36c8886474d",
+        "ans0": 2
+    },
+    {
+        "hash": "8e1a62576137c32f96bfc8d7588bd455",
+        "question": "{\"info\":{\"title\":\"以下关于红框位置偏差时招牌应该提取的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"招牌完整且红框在招牌范围内，但未能覆盖整个招牌\"},{\"B\":\"红框包含了两个完整招牌，无法判断提取哪个是主招牌\"},{\"C\":\"两个招牌都被框住，且两个招牌都没有被框完整\"}]]",
+        "areaCoordinateHash": "2b15224590a4a27f0263832401dc259d",
+        "ans0": 1
+    },
+    {
+        "hash": "0c335d81693c612b9e53386f60dec244",
+        "question": "{\"info\":{\"title\":\"（判断题）如果招牌上的厂家直销属于招牌的一部分，可以提取\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "b1cc58a9ab920748c6e0f14d0ac25bac",
+        "question": "{\"info\":{\"title\":\"（判断题）当招牌中含有地址描述性附加店名时，如经销处，提取时不需要单独加括号\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "e8c552840c144f70614b05cc1dbb9777",
+        "question": "{\"info\":{\"title\":\"（判断题）如果招牌中既有大写字母又有小写字母，提取时应该全部转为小写\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 2
+    },
+    {
+        "hash": "a9d7a4244acccc61333d84279991c20f",
+        "question": "{\"info\":{\"title\":\"以下情形中，字体被遮挡可以按照经验顺下来但不一定能提取的有\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"中国农业银行\"},{\"B\":\"中国福利彩票\"},{\"C\":\"口腔诊所\"}]]",
+        "areaCoordinateHash": "dfe87442759213301abde28ad368b179",
+        "ans0": 3
+    },
+    {
+        "hash": "0374c41f4b93e40a475fb595c1c2eb98",
+        "question": "{\"info\":{\"title\":\"在提取包含分店名的招牌时，以下情形需要添加括号的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"总店、代理点、授权店\"},{\"B\":\"总代理、经销处、旗舰店\"},{\"C\":\"工厂店、会员店、体验店\"}]]",
+        "areaCoordinateHash": "a5dc297da4267971506a4012b6de0894",
+        "ans0": 1
+    },
+    {
+        "hash": "919ade11186d92778a5eab95d793141f",
+        "question": "{\"info\":{\"title\":\"下列关于ATM及24小时自助银行提取规则，描述错误的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"若图片中是XX银行ATM机，统一命名为银行全称+ATM\"},{\"B\":\"若图片中为24小时自助银行，需要提取为银行全称+24小时自助银行\"},{\"C\":\"如果招牌中既有营业厅也有ATM机，且红框框住了二者，需要提取ATM\"}]]",
+        "areaCoordinateHash": "3dddc413e14e4362bd3e1933a7812df3",
+        "ans0": 3
+    },
+    {
+        "hash": "f0469a03a39099a15cfa73586910d852",
+        "question": "{\"info\":{\"title\":\"下列关于加油站提取规则说法正确的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"加油站招牌的编辑规则为：站点+（品牌公司名称+加油站）\"},{\"B\":\"加油站本身不存在站名的，名称为品牌公司名称+加油站\"},{\"C\":\"如果加油站没有品牌公司名称、站名信息，则该招牌不应该提取\"}]]",
+        "areaCoordinateHash": "3a533873614dc26baefe4fbc3bd25e10",
+        "ans0": 2
+    },
+    {
+        "hash": "5dfc4589ee76703f2b86b9e4ce6ed45a",
+        "question": "{\"info\":{\"title\":\"下列关于多个专名提取规则描述正确的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"如果图片中的招牌同时含有经销商名称和品牌名称，需要提取经销商名称\"},{\"B\":\"一个店有多个大小相同的专名时，录入招牌最下面的或者最右面的名称\"},{\"C\":\"如果招牌中多个专名的大小、色彩、位置都不相同，无法判断哪一个属于主体店名，应选择最中间的提取\"}]]",
+        "areaCoordinateHash": "ba3c22580ca43713a8d9e7bd51564b7b",
+        "ans0": 1
+    },
+    {
+        "hash": "e3d5add891302ee6a9a5312149586213",
+        "question": "{\"info\":{\"title\":\"（判断题）当招牌中含有多个经营范围且需要提取时，一般提取前三个\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 2
+    },
+    {
+        "hash": "90e8f53f6b8dcaea8447d05f3c7759b4",
+        "question": "{\"info\":{\"title\":\"以下关于经营范围提取规则描述正确的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"一个只有专名没有经营范围的招牌，不该提取\"},{\"B\":\"含有专名和经营范围的招牌，一定需要录入专名和经营范围\"},{\"C\":\"当经营范围含有多个且需要被提取时，需要提取前两个\"}]]",
+        "areaCoordinateHash": "e62aae1427f059f274cd5f553432b264",
+        "ans0": 3
+    },
+    {
+        "hash": "f00872d616f265a84d099e43056b2723",
+        "question": "{\"info\":{\"title\":\"下列关于带字母的招牌的提取规则描述错误的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"当字母与汉字内容相同时，名称只提取汉字，不提取字母\"},{\"B\":\"当字母与汉字内容不同时，且英文是招牌名称的一部分，需提取中文和英文\"},{\"C\":\"字母的大小写需按照图片内的真实情况录入，如果分不清楚大小写，按大写优先\"}]]",
+        "areaCoordinateHash": "6bbbdb13a38c9706d2b6673b1c0b0e55",
+        "ans0": 3
+    },
+    {
+        "hash": "04eda23879dba30eadf95de039ea3b46",
+        "question": "{\"info\":{\"title\":\"下列关于店铺营业状态类提取规则，描述正确的是\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[{\"qt0\":\"pai_feedback_ops\",\"qs0\":\"key_answers:0\"},{\"qt1\":\"poi_name\",\"qs1\":\"名称为：\"}]}",
+        "areaCoordinate": "[[{\"A\":\"当招牌含有转租字样时不能提取，含有xxx正常营业字样时应该提取\"},{\"B\":\"当招牌中含有xxx厂家直销字样时，一定不能提取\"},{\"C\":\"名称录入时遇到道路指示牌、天桥名称指示牌等招牌时，不能提取\"}]]",
+        "areaCoordinateHash": "24bf8ef53d3e5a177cd781789b36ef40",
+        "ans0": 3
+    },
+    {
+        "hash": "0f33a2afd2946091977d8e0cef2171b6",
+        "question": "{\"info\":{\"title\":\"当遇到图片招牌为商场内部超市出入口时，只提超市名称即可，无需加上“出入口”。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "e096c02c56a585c02f2ceafdf54f005e",
+        "question": "{\"info\":{\"title\":\"当红框同时完整框住了两个或两个以上招牌，按照从右到左、从下到上原则提取第一个。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 2
+    },
+    {
+        "hash": "eb06746d92720e176939f59558387a0f",
+        "question": "{\"info\":{\"title\":\"总代理”、“经销处”、“旗舰店”、“专卖店“、“工厂店”、“会员店”、“体验店”“直营店”或其他地址描述性附加店名都不需要单独加括号。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "01637349795c856c423d5772719c347e",
+        "question": "{\"info\":{\"title\":\"商场一层对外开设的店铺，不需要提取。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 2
+    },
+    {
+        "hash": "e4aa17af737c2544035f03153f1c4abd",
+        "question": "{\"info\":{\"title\":\"当遇到图片中招牌名称为繁体字时，需要将繁体字转为简体字。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "b2e88009b583903a7e761c9ce389d11b",
+        "question": "{\"info\":{\"title\":\"在正式答题中如果遇到英文品牌，并且品牌参考信息中给出的英文单词之间用“+”连接，在名称提取时需要将“+”照抄录入吗？\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"需要，按照品牌参考信息照抄录入\"},{\"B\":\"不需要，英文单词之间用空格隔开\"}]]",
+        "areaCoordinateHash": "958505b775aae952f89248fc1a076444",
+        "ans0": 2
+    },
+    {
+        "hash": "2f8fd8c562360db0e4ec444d4f439337",
+        "question": "{\"info\":{\"title\":\"当图片字体清晰且是完整的品牌名称，招牌却为认不出的艺术字，如果题目中参考信息给出的图片与要提取名称的图片品牌是完全一致，且给出的名称也正确，则按照参考信息正常提取。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "7b9ac2e017a2802b33ed60f9642621fb",
+        "question": "{\"info\":{\"title\":\"当遇到要提取的招牌上同时有中文和英文品牌缩写时，只提取中文品牌名称即可。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 1
+    },
+    {
+        "hash": "132a50ea7c91e06cc84cc0c7c0ff1882",
+        "question": "{\"info\":{\"title\":\"商场中的取款机、娃娃机、自动贩卖机、唱歌机等可以正常进行提取名称。\",\"pic_url\":\"https://juejin.cdn.bcebos.com/juejin/72a98568c51a2b064fa8eece4.png\",\"area_coordinate\":[]},\"question\":[]}",
+        "areaCoordinate": "[[{\"A\":\"对\"},{\"B\":\"错\"}]]",
+        "areaCoordinateHash": "ca584e527fd8f44c1e4bcbd0140a90db",
+        "ans0": 2
+    }
+]

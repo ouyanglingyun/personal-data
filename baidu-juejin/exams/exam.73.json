@@ -1,0 +1,352 @@
+[
+    {
+        "hash": "396535175d4024b7ca3ef7c021e8fd6a",
+        "question": "{\"info\": {\"title\": \"（单选题）在品牌分类判断中，以下哪个不属于我们要判断的品牌类别？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"父品牌\": \"父品牌\"}, {\"子品牌\": \"子品牌\"}, {\"独立品牌\": \"独立品牌\"}, {\"高端品牌\": \"高端品牌\"}]]",
+        "areaCoordinateHash": "d9dc9df14a3d4e983f1680a433f14dab",
+        "ans0": 4
+    },
+    {
+        "hash": "c3869dcf4b0f249bd63048011b0116d7",
+        "question": "{\"info\": {\"title\": \"（单选题）当通过提供的招牌图来判断品牌词时（假设招牌图与提供的词是关联的），以下哪些招牌图特征不可以用于判定当前词为品牌词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"当前招牌上有R标\": \"当前招牌上有R标\"}, {\"当前招牌图上有TM标\": \"当前招牌图上有TM标\"}, {\"当前招牌图的文字与词一致\": \"当前招牌图的文字与词一致\"}, {\"当前招牌图的角落有“XX店”字样\": \"当前招牌图的角落有“XX店”字样\"}]]",
+        "areaCoordinateHash": "0a4dfbcb553cc059c54e907abd96862b",
+        "ans0": 3
+    },
+    {
+        "hash": "cb72b9e1773acb6e3873437a5824e5b1",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪个渠道搜索到的信息无法用作品牌词的判断？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"百度百科\": \"百度百科\"}, {\"百度地图\": \"百度地图\"}, {\"官方微信公众号\": \"官方微信公众号\"}, {\"大众点评\": \"大众点评\"}]]",
+        "areaCoordinateHash": "59a2c7ad6f20374d23d3075c7d1e6639",
+        "ans0": 2
+    },
+    {
+        "hash": "5a91f38be8d7b7fad115b93aef19cdc5",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪个词一定不会是品牌词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"茉莉餐厅\": \"茉莉餐厅\"}, {\"老妈蹄花\": \"老妈蹄花\"}, {\"嘉和一品\": \"嘉和一品\"}, {\"锦绣年华\": \"锦绣年华\"}]]",
+        "areaCoordinateHash": "de3cb0851a1f636a3fac2f7afed7e923",
+        "ans0": 2
+    },
+    {
+        "hash": "3614df4a9cadcef4aa2f8ea16e5b5090",
+        "question": "{\"info\": {\"title\": \"（判断题）在百度中检索对应品牌词的专名，查询是否有官网，查询不到对应官网，可以直接认为是独立品牌。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 1
+    },
+    {
+        "hash": "1124f9f75e86b22eeae1e212339c71b8",
+        "question": "{\"info\": {\"title\": \"（判断题）父品牌词：一般指大型集体、企业的名称，通常情况只由通名组成\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 2
+    },
+    {
+        "hash": "c66866661983c9ab4c8c5d268c93bdef",
+        "question": "{\"info\": {\"title\": \"（单选题）通用名词不能是以下哪一类词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"地方小吃\": \"地方小吃\"}, {\"姓氏\": \"姓氏\"}, {\"经营范围\": \"经营范围\"}, {\"招牌菜品\": \"招牌菜品\"}]]",
+        "areaCoordinateHash": "f31e8dc798457810d2be327c26ca7938",
+        "ans0": 2
+    },
+    {
+        "hash": "be241ce15cbad7fb40fed62a33e37be5",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪一个描述的可能是一个官方logo图所具有的特征？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"logo上有R标\": \"logo上有R标\"}, {\"logo为卡通人物\": \"logo为卡通人物\"}, {\"logo为人物正脸照\": \"logo为人物正脸照\"}, {\"logo上的文字与品牌一致\": \"logo上的文字与品牌一致\"}]]",
+        "areaCoordinateHash": "b0b4a748c2e870fbf6b2b25be8797a30",
+        "ans0": 1
+    },
+    {
+        "hash": "9c469bf2c9fe797d1cbd67579a7bbc94",
+        "question": "{\"info\": {\"title\": \"（单选题）当前品牌词为“京客隆便利店”，我们应该去百度上搜索以下哪项来帮助我们判断当前品牌是否为父/子品牌？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"京客隆 官网\": \"京客隆 官网\"}, {\"便利店 官网\": \"便利店 官网\"}, {\"京客隆便利店 官网\": \"京客隆便利店 官网\"}]]",
+        "areaCoordinateHash": "51d6e5e06be9f56d0eae6fc12e2c8dc1",
+        "ans0": 1
+    },
+    {
+        "hash": "5a8c64d2160d75f758d52c3bb6f51fa9",
+        "question": "{\"info\": {\"title\": \"（判断题）品牌判断题一般会提供1-5张门店的招牌图作为判断参考，这些门店招牌图一定是这个品牌的招牌。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 2
+    },
+    {
+        "hash": "15849ffedd8184c8fb06fb4bb2134c28",
+        "question": "{\"info\": {\"title\": \"（判断题）只要是地方小吃、菜品类、经营范围类的词一定不是品牌词，无需再查看招牌或查询资料。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 1
+    },
+    {
+        "hash": "40006b862f8e4d0b9da7f81bd1023bf1",
+        "question": "{\"info\": {\"title\": \"（判断题）在进行品牌词判断时，首先判断给出的示例图片中的招牌是否与品牌词对应，不对应则当前图片为无效数据，不可参考，查看其他示例图片。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 1
+    },
+    {
+        "hash": "67093764f405e64b75e7020a74d574dc",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪个词不属于通用名词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"美甲美睫\": \"美甲美睫\"}, {\"鸡蛋灌饼\": \"鸡蛋灌饼\"}, {\"藏书羊肉\": \"藏书羊肉\"}, {\"唐韵秦风\": \"唐韵秦风\"}]]",
+        "areaCoordinateHash": "f99c0f566d0762d4b3734ee1e38194f6",
+        "ans0": 4
+    },
+    {
+        "hash": "5672315fac63ff7a175d47b1071b8c30",
+        "question": "{\"info\": {\"title\": \"（判断题）在品牌词名称规范提取题中，如果招牌中同时存在中英文，则英文部分需要全部提取。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 2
+    },
+    {
+        "hash": "67093764f405e64b75e7020a74d574dc",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪个词不属于通用名词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"五金\": \"五金\"}, {\"十元店\": \"十元店\"}, {\"成人用品\": \"成人用品\"}, {\"乌托邦\": \"乌托邦\"}]]",
+        "areaCoordinateHash": "ae83e50fb8c36dcf942a208c48ce805e",
+        "ans0": 4
+    },
+    {
+        "hash": "c242b8a0f735e86e75182940fba3f0b5",
+        "question": "{\"info\": {\"title\": \"（单选题）专有名词不能是以下哪一类词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"年份\": \"年份\"}, {\"英文名\": \"英文名\"}, {\"招牌菜品\": \"招牌菜品\"}, {\"词牌名\": \"词牌名\"}]]",
+        "areaCoordinateHash": "d8d4f98dac4df5c7944c0aef861fc2fe",
+        "ans0": 1
+    },
+    {
+        "hash": "b312f165f104b0e75e068a33565fc4c7",
+        "question": "{\"info\": {\"title\": \"（判断题）在抖音上，部分词的查询结果可能会存在没有官方账号的，但是有商家入驻的情况。此时，可以通过商家的头像为官方logo图来判断当前查询词是品牌词。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 1
+    },
+    {
+        "hash": "385e5da81f2534e2179005edf0421336",
+        "question": "{\"info\": {\"title\": \"（判断题）只要词中包含有专名得大概率是品牌，无需再查看招牌或查询资料。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 2
+    },
+    {
+        "hash": "67093764f405e64b75e7020a74d574dc",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪个词不属于通用名词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"照相馆\": \"照相馆\"}, {\"玻璃门窗\": \"玻璃门窗\"}, {\"麻婆豆腐\": \"麻婆豆腐\"}, {\"小天鹅\": \"小天鹅\"}]]",
+        "areaCoordinateHash": "b91b049ffdb230591b0c092989d5fa37",
+        "ans0": 4
+    },
+    {
+        "hash": "522a65167740fc4fb94457ff04aa367f",
+        "question": "{\"info\": {\"title\": \"（判断题）某词若查询抖音有蓝钩认证，或查询微博有官方加V，则可以直接视为是品牌词。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 1
+    },
+    {
+        "hash": "68cd7f32a10f30de4810bddc663a5c44",
+        "question": "{\"info\": {\"title\": \"（判断题）查询后与品牌词相符的账号，认证单位为非个人的，可以视为是品牌。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 1
+    },
+    {
+        "hash": "ed88218efe4f28ba58fceb7e553d0018",
+        "question": "{\"info\": {\"title\": \"（单选题）当我们查询大众点评后，观察得到当前词的搜索结果具有以下哪个特征时，我们无法断定当前词为品牌词。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"查询得到的相关店的店名均相同\": \"查询得到的相关店的店名均相同\"}, {\"查询得到的相关店的首图均相同\": \"查询得到的相关店的首图均相同\"}, {\"查询得到的相关店的门面特征均相同\": \"查询得到的相关店的门面特征均相同\"}, {\"查询得到的相关店的评分均高于4.5\": \"查询得到的相关店的评分均高于4.5\"}]]",
+        "areaCoordinateHash": "b70d5f354d8125a7e1214ebb5c78dc97",
+        "ans0": 1
+    },
+    {
+        "hash": "83370bfe62635b563c7611edcd493310",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪个词不属于专有名词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"Dior\": \"Dior\"}, {\"金聚德\": \"金聚德\"}, {\"诚信\": \"诚信\"}, {\"糯米ThaiThai\": \"糯米ThaiThai\"}]]",
+        "areaCoordinateHash": "6e99079aa001fc95df9755ddbae42857",
+        "ans0": 3
+    },
+    {
+        "hash": "83370bfe62635b563c7611edcd493310",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪个词不属于专有名词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"王妈妈\": \"王妈妈\"}, {\"叫花鸡\": \"叫花鸡\"}, {\"将太无二\": \"将太无二\"}, {\"沙县\": \"沙县\"}]]",
+        "areaCoordinateHash": "51795c66dd3726c849f3c47616aab741",
+        "ans0": 2
+    },
+    {
+        "hash": "aae0ad7998394f5b98be345ab5a0ab4a",
+        "question": "{\"info\": {\"title\": \"（单选题）品牌词的构成必须要有的成分是？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"专有名词（专名）\": \"专有名词（专名）\"}, {\"通用名词（通名）\": \"通用名词（通名）\"}, {\"外文名词\": \"外文名词\"}]]",
+        "areaCoordinateHash": "c0135ebd72b380a356e366abf3e48279",
+        "ans0": 1
+    },
+    {
+        "hash": "18d3e294ad326b2339daef0151d0e4e4",
+        "question": "{\"info\": {\"title\": \"（判断题）在品牌词名称规范提取题中，招牌中的所有文字均需要提取。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 2
+    },
+    {
+        "hash": "5be46e94aba5307ab6c3d4383fbec54d",
+        "question": "{\"info\": {\"title\": \"（判断题）在品牌词名称规范提取题中，如提供的所有图片素材的招牌均不相似，则无需提取规范名称，备注：无法规范。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}]]",
+        "areaCoordinateHash": "14da3d0b21a664a8f3e7c7845c90cf05",
+        "ans0": 1
+    },
+    {
+        "hash": "83370bfe62635b563c7611edcd493310",
+        "question": "{\"info\": {\"title\": \"（单选题）以下哪个词不属于专有名词？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"鲜掉眉毛\": \"鲜掉眉毛\"}, {\"王婆\": \"王婆\"}, {\"李记\": \"李记\"}]]",
+        "areaCoordinateHash": "6ca5a9e3240a375e078d95b9003083bd",
+        "ans0": 1
+    },
+    {
+        "hash": "d91316530a20a62b68c2df64d5fd5d8e",
+        "question": "{\"info\": {\"title\": \"（单选题）该品牌词名称规范应提取为？\", \"pic_url\": \"https://lbsugc.cdn.bcebos.com/images/B662a6a82c0c60b491.jpeg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"FOTILE方太\": \"FOTILE方太\"}, {\"方太\": \"方太\"}, {\"FOTILE\": \"FOTILE\"}, {\"无法规范\": \"无法规范\"}]]",
+        "areaCoordinateHash": "824ad32575ab5a5cfdd2cb072b788990",
+        "ans0": 1
+    },
+    {
+        "hash": "a3337d78f98b4594dafa98891c10bbfb",
+        "question": "{\"info\": {\"title\": \"（选择题）该品牌词名称规范应提取为？\", \"pic_url\": \"https://lbsugc.cdn.bcebos.com/images/B6672b353bd7ff12c45.jpeg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"喆啡酒店\": \"喆啡酒店\"}, {\"喆·咖酒店\": \"喆·咖酒店\"}, {\"喆·啡酒店\": \"喆·啡酒店\"}, {\"JAMESJOYCECOFFETEL\": \"JAMESJOYCECOFFETEL\"}]]",
+        "areaCoordinateHash": "c59ab10751661efac9befa34e9f3b6f4",
+        "ans0": 3
+    },
+    {
+        "hash": "d12d4cc13dd2b25a9a4f008386aed73f",
+        "question": "{\"info\": {\"title\": \"（选择题）“义乌小商品2元超市”是品牌词吗？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}, {\"无法确定\": \"无法确定\"}]]",
+        "areaCoordinateHash": "79af21467e7e0cd0ca63e45de153005e",
+        "ans0": 2
+    },
+    {
+        "hash": "77dba0e5ece6414c346768818dfcc3eb",
+        "question": "{\"info\": {\"title\": \"（选择题）“大众平价超市”是品牌词吗？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}, {\"无法确定\": \"无法确定\"}]]",
+        "areaCoordinateHash": "79af21467e7e0cd0ca63e45de153005e",
+        "ans0": 2
+    },
+    {
+        "hash": "d492ef6186cd301d44842bb775fd73e1",
+        "question": "{\"info\": {\"title\": \"（选择题）“连锁酒店公寓”是品牌词吗？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}, {\"无法确定\": \"无法确定\"}]]",
+        "areaCoordinateHash": "79af21467e7e0cd0ca63e45de153005e",
+        "ans0": 2
+    },
+    {
+        "hash": "c78582b1b6d1910eee7611b3a67b3700",
+        "question": "{\"info\": {\"title\": \"（判断题）请判断左图的招牌与品牌词“京客隆便利店”是否有关\", \"pic_url\": \"https://taojin-his.cdn.bcebos.com/d62a6059252dd42ad7cf71110d3b5bb5c8eab842.jpg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"有关\": \"有关\"}, {\"无关\": \"无关\"}]]",
+        "areaCoordinateHash": "550b23224add6b1cba52d377d0596f3e",
+        "ans0": 1
+    },
+    {
+        "hash": "9e56e9752dee09c4d661c401fb5c1456",
+        "question": "{\"info\": {\"title\": \"（选择题）该品牌词名称规范应提取为？\", \"pic_url\": \"https://taojin-pic-bj.cdn.bcebos.com/78977747f3a7b3bafbf1b04d5d3a9510.jpg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"美的\": \"美的\"}, {\"Media美的\": \"Media美的\"}, {\"Media美的专卖店\": \"Media美的专卖店\"}, {\"美的热水器·净水器\": \"美的热水器·净水器\"}]]",
+        "areaCoordinateHash": "f4d96c6cb3ba32fc31df6088cf256b7c",
+        "ans0": 3
+    },
+    {
+        "hash": "ffae1c8f6fdfa2ad39bf00d902393c98",
+        "question": "{\"info\": {\"title\": \"（选择题）请判断“美的”的品牌类型。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"父品牌\": \"父品牌\"}, {\"子品牌\": \"子品牌\"}, {\"独立品牌\": \"独立品牌\"}, {\"非品牌\": \"非品牌\"}]]",
+        "areaCoordinateHash": "cbb8670817996ec49d49f16a3c95dc4c",
+        "ans0": 1
+    },
+    {
+        "hash": "963af8859dfbeef6bfb9b73e0cecfc47",
+        "question": "{\"info\": {\"title\": \"（选择题）请判断“联想Lenovo”的品牌类型。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"父品牌\": \"父品牌\"}, {\"子品牌\": \"子品牌\"}, {\"独立品牌\": \"独立品牌\"}, {\"非品牌\": \"非品牌\"}]]",
+        "areaCoordinateHash": "cbb8670817996ec49d49f16a3c95dc4c",
+        "ans0": 1
+    },
+    {
+        "hash": "a28fb416a4ecc5661e6e7a994d1d98a3",
+        "question": "{\"info\": {\"title\": \"（选择题）请判断“盒马”的品牌类型。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"父品牌\": \"父品牌\"}, {\"子品牌\": \"子品牌\"}, {\"独立品牌\": \"独立品牌\"}, {\"非品牌\": \"非品牌\"}]]",
+        "areaCoordinateHash": "cbb8670817996ec49d49f16a3c95dc4c",
+        "ans0": 1
+    },
+    {
+        "hash": "6ba32c00253fe30218dbb107c6c7eae8",
+        "question": "{\"info\": {\"title\": \"（选择题）请判断“肯悦咖啡”的品牌类型。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"父品牌\": \"父品牌\"}, {\"子品牌\": \"子品牌\"}, {\"独立品牌\": \"独立品牌\"}, {\"非品牌\": \"非品牌\"}]]",
+        "areaCoordinateHash": "cbb8670817996ec49d49f16a3c95dc4c",
+        "ans0": 1
+    },
+    {
+        "hash": "9d1dfe9f32e798dbc6ba4156ca641b60",
+        "question": "{\"info\": {\"title\": \"（判断题）请判断左图的招牌与品牌词“京客隆便利店”是否有关\", \"pic_url\": \"https://lbsugc.cdn.bcebos.com/images/B655564886ec9356ad.jpeg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"有关\": \"有关\"}, {\"无关\": \"无关\"}]]",
+        "areaCoordinateHash": "550b23224add6b1cba52d377d0596f3e",
+        "ans0": 1
+    },
+    {
+        "hash": "fa6b9db673287763f269e626f82a1f0a",
+        "question": "{\"info\": {\"title\": \"（选择题）“野外烧烤”是品牌词吗？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}, {\"无法确定\": \"无法确定\"}]]",
+        "areaCoordinateHash": "79af21467e7e0cd0ca63e45de153005e",
+        "ans0": 1
+    },
+    {
+        "hash": "ade5dee720460c4a4bdf21af9e0be77b",
+        "question": "{\"info\": {\"title\": \"（选择题）请判断“荣事达净水机”的品牌类型。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"父品牌\": \"父品牌\"}, {\"子品牌\": \"子品牌\"}, {\"独立品牌\": \"独立品牌\"}, {\"非品牌\": \"非品牌\"}]]",
+        "areaCoordinateHash": "cbb8670817996ec49d49f16a3c95dc4c",
+        "ans0": 2
+    },
+    {
+        "hash": "edca58347ea0a3c22ce69e3e7d585546",
+        "question": "{\"info\": {\"title\": \"（判断题）请判断左图的招牌与品牌词“一茶一坐”是否有关\", \"pic_url\": \"https://lbsugc.cdn.bcebos.com/images/B64e0229fed6d759ec.jpeg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}, {\"无法确定\": \"无法确定\"}]]",
+        "areaCoordinateHash": "79af21467e7e0cd0ca63e45de153005e",
+        "ans0": 2
+    },
+    {
+        "hash": "6f75e2dcbc65837cc0be0fe82f747109",
+        "question": "{\"info\": {\"title\": \"（判断题）请判断左图的招牌与品牌词“京客隆便利店”是否有关\", \"pic_url\": \"https://lbsugc.cdn.bcebos.com/images/B668751aa35c7eea15.jpeg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"有关\": \"有关\"}, {\"无关\": \"无关\"}]]",
+        "areaCoordinateHash": "550b23224add6b1cba52d377d0596f3e",
+        "ans0": 1
+    },
+    {
+        "hash": "f556e3cf758eb7f5bd75d0a8a497621a",
+        "question": "{\"info\": {\"title\": \"（选择题）该品牌词名称规范应提取为？\", \"pic_url\": \"https://taojin-pic-bj.cdn.bcebos.com/2172932459/4547072md5d505070n0v0p0p06464745.jpg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"骨汤麻辣烫\": \"骨汤麻辣烫\"}, {\"福记骨汤麻辣烫\": \"福记骨汤麻辣烫\"}, {\"福记骨汤麻辣烫·炸甩\": \"福记骨汤麻辣烫·炸甩\"}, {\"骨汤麻辣烫·炸甩\": \"骨汤麻辣烫·炸甩\"}]]",
+        "areaCoordinateHash": "53077ff270972c12a1e64385c87d39ad",
+        "ans0": 2
+    },
+    {
+        "hash": "d3169423b24d20250af77c1b6deac343",
+        "question": "{\"info\": {\"title\": \"（选择题）请判断“吉祥馄饨”的品牌类型。\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"父品牌\": \"父品牌\"}, {\"子品牌\": \"子品牌\"}, {\"独立品牌\": \"独立品牌\"}, {\"非品牌\": \"非品牌\"}]]",
+        "areaCoordinateHash": "cbb8670817996ec49d49f16a3c95dc4c",
+        "ans0": 3
+    },
+    {
+        "hash": "d26af59029f0632baddc699f98d9ba9e",
+        "question": "{\"info\": {\"title\": \"（单选题）该品牌词名称规范应提取为？\", \"pic_url\": \"https://taojin-pic-gz.cdn.bcebos.com/c33600fcaa3042f26ab08dfa4e094f44.jpg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"澳麦多伦\": \"澳麦多伦\"}, {\"澳麦多轮手工烘焙\": \"澳麦多轮手工烘焙\"}, {\"OmH澳麦多伦\": \"OmH澳麦多伦\"}, {\"澳麦多伦手工烘焙\": \"澳麦多伦手工烘焙\"}]]",
+        "areaCoordinateHash": "72f86435e40eace629830e40928c9979",
+        "ans0": 4
+    },
+    {
+        "hash": "5f46912dc10eb171f914427e8057ff83",
+        "question": "{\"info\": {\"title\": \"（选择题）“阳光内衣”是品牌词吗？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}, {\"无法确定\": \"无法确定\"}]]",
+        "areaCoordinateHash": "79af21467e7e0cd0ca63e45de153005e",
+        "ans0": 3
+    },
+    {
+        "hash": "cebf6d4e9fb07e08826c3e5a1d375ce7",
+        "question": "{\"info\": {\"title\": \"（选择题）“阿瓦山寨”是品牌词吗？\", \"pic_url\": \"\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"是\": \"是\"}, {\"否\": \"否\"}, {\"无法确定\": \"无法确定\"}]]",
+        "areaCoordinateHash": "79af21467e7e0cd0ca63e45de153005e",
+        "ans0": 1
+    },
+    {
+        "hash": "a14970a74247e231677c07af0a42e127",
+        "question": "{\"info\": {\"title\": \"（选择题）该品牌词名称规范应提取为？\", \"pic_url\": \"https://lbsugc.cdn.bcebos.com/images/B6680b193caaca10361.jpeg\"}, \"question\": [{\"qt0\": \"pai_feedback_ops\", \"qs0\": \"key_answers:0\"}, {\"qt1\": \"poi_name\", \"qs1\": \"名称为：\"}]}",
+        "areaCoordinate": "[[{\"东来顺\": \"东来顺\"}, {\"东来顺饭庄\": \"东来顺饭庄\"}, {\"DONGLAISHUN东来顺饭庄\": \"DONGLAISHUN东来顺饭庄\"}, {\"DONGLAISHUN东来顺\": \"DONGLAISHUN东来顺\"}]]",
+        "areaCoordinateHash": "6c08dd1c84dc7e8b7654ebe67170d7ac",
+        "ans0": 2
+    }
+]
