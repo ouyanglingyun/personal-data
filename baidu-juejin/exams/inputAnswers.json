@@ -3206,13 +3206,6 @@
 		"ans1": "海澜之家"
 	},
 	{
-		"hash": "01991717f8d4b5f58a5613f7cb03e5d0",
-		"question": "https://taojin-pic-gz.cdn.bcebos.com/11c01d4d6913e2d577f70f0c97e879a6.jpg",
-		"areaCoordinate": "[[{\"x\":160,\"y\":248},{\"x\":912,\"y\":248},{\"x\":912,\"y\":516},{\"x\":160,\"y\":516}]]",
-		"areaCoordinateHash": "2938a9f37ab8ead10099659f3ce44f88",
-		"ans1": "埃沃定制"
-	},
-	{
 		"hash": "77e0654de95711f57d8651f83c108cf4",
 		"question": "https://taojin-pic-gz.cdn.bcebos.com/425673c2844cd7b5d4fe6e7fadd536dd.jpg",
 		"areaCoordinate": "[[{\"x\":38,\"y\":145},{\"x\":836,\"y\":145},{\"x\":836,\"y\":625},{\"x\":38,\"y\":625}]]",
